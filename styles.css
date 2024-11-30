@@ -6,8 +6,11 @@ body {
 
 .avatar {
     width: 100px;
+    height: 150px;
     border-radius: 20px;
-}
+    margin-top: auto;
+    margin-bottom: auto;
+    }
 
 .card {
     width: 400px;
