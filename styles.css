@@ -5,7 +5,7 @@ body {
 
 .avatar {
     width: 100px;
-    border-radius: 50px;
+    border-radius: 30px;
 }
 
 .card {
@@ -16,8 +16,8 @@ body {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    background: #ddebf8;
-    color: #2b2839;
+    background: black;
+    color: white;
     border-bottom: 6px solid #d8cefe;
     border-radius: 30px
 }
